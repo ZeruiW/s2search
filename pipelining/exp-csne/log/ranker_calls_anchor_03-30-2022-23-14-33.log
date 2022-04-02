@@ -1,0 +1,20 @@
+
+
+[03/30/2022, 23:14:34] [get prediction of paper data for /home/youyinnn_gmail_com/s2search/pipelining/exp-csne csne [6, 8]]
+============== start ==============
+[03/30/2022, 23:14:34] [get prediction of paper data for /home/youyinnn_gmail_com/s2search/pipelining/exp-csne csne [6, 8]]
+============== end 0 ==============
+
+
+[03/30/2022, 23:14:34] [get categorical paper data for /home/youyinnn_gmail_com/s2search/pipelining/exp-csne csne [6, 8]]
+============== start ==============
+[03/30/2022, 23:14:50] [get categorical paper data for /home/youyinnn_gmail_com/s2search/pipelining/exp-csne csne [6, 8]]
+============== end 39336 ==============
+
+
+[03/30/2022, 23:14:50] [get anchor metrics for /home/youyinnn_gmail_com/s2search/pipelining/exp-csne csne [6, 8] from index: 6150 to 7379]
+============== start ==============
+[03/30/2022, 23:50:35] [get anchor metrics for /home/youyinnn_gmail_com/s2search/pipelining/exp-csne csne [6, 8] from index: 6150 to 7379]
+============== end 2411290 ==============
+
+
